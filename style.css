@@ -1,0 +1,22 @@
+body
+{
+	background-color: white;
+	width: 650px;
+	padding: 16px;
+	line-height: 1.6;
+	text-align: left;
+	margin: auto;
+	font-size: 18px;
+}
+
+.txt
+{
+	font-family: courier;	
+}
+
+button
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
